@@ -6,6 +6,7 @@
  * Version:           1.0.0
  * Requires at least: 6.4
  * Requires PHP:      8.0
+ * Requires Plugins:  woocommerce
  * Author:            Gois.dev
  * Author URI:        https://gois.dev/
  * License:           GPL-2.0-or-later
